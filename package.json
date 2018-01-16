@@ -1,0 +1,14 @@
+{
+    "name": "Mock API",
+    "version": "0.0.1",
+    "description": "Mock API",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines": {
+        "node": "~8.0.0"
+    },
+    "author": "Pradeep Sanjaya",
+    "license": "MIT"
+}
